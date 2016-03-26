@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<reports>
+<report><name>Спирка Kазарма</name><color/><lat>42.62431253</lat><lng>25.37890077</lng><date>20 August, 2015, 3:55 pm</date></report>
+<report><name>Спирка Болница</name><color/><lat>42.622005</lat><lng>25.402104</lng></report>
+<report><name>Спирка Механо</name><color/><lat>42.62056851</lat><lng>25.40757895</lng><date>20 August, 2015, 4:03 pm</date></report>
+<report><name>Спирка Дървено</name><color/><lat>42.621593</lat><lng>25.410566</lng><date>20 August, 2015, 4:03 pm</date></report>
+<report><name>Спирка Тюлбето</name><color/><lat>42.62487698</lat><lng>25.39860159</lng><date>20 August, 2015, 4:16 pm</date></report>
+<report><name>Спирка МГ</name><color/><lat>42.62279285</lat><lng>25.39570749</lng><date>20 August, 2015, 4:20 pm</date></report>
+<report><name>Спирка Поликлиника</name><color/><lat>42.622050</lat><lng>25.388463</lng><date>20 August, 2015, 4:39 pm</date></report>
+<report><name>Спирка Хидравлика</name><color/><lat>42.62696104</lat><lng>25.38200676</lng></report>
+<report><name>Спирка Запад</name><color/><lat>42.62250075</lat><lng>25.37288994</lng><date>20 August, 2015, 4:03 pm</date></report>
+<report><name>Спирка Севт III</name><color/><lat>42.62034153</lat><lng>25.3720504</lng><date>20 August, 2015, 4:03 pm</date></report>
+<report><name>Спирка Кремона</name><color/><lat>42.61763353</lat><lng>25.37445098</lng><date>20 August, 2015, 4:03 pm</date></report>
+<report><name>Спирка Абаята</name><color>Red</color><lat>42.617926</lat><lng>25.378720</lng><date>27 June, 2015, 1:32 am</date></report>
+</reports>

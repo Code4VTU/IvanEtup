@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<reports>
+<report><name>Спирка Площад</name><color>Red</color><lat>42.621</lat><lng>25.394</lng><date>27 June, 2015, 1:27 am</date></report>
+<report><name>Спирка Виенска</name><color>Red</color><lat>42.618</lat><lng>25.387</lng><date>27 June, 2015, 1:30 am</date></report>
+<report><name>Спирка Абаята</name><color>Red</color><lat>42.617926</lat><lng>25.378720</lng><date>27 June, 2015, 1:32 am</date></report>
+<report><name>Спирка Кауфланд</name><color>Red</color><lat>42.617089</lat><lng>25.369480</lng><date>27 June, 2015, 1:38 am</date></report>
+<report><name>Спирка Копринка 1</name><color>Red</color><lat>42.632</lat><lng>25.338</lng><date>27 June, 2015, 1:39 am</date></report>
+<report><name>Спирка Копринка Център</name><color>Red</color><lat>42.628</lat><lng>25.336</lng><date>27 June, 2015, 1:41 am</date></report>
+<report><name>Автогара</name><color>Red</color><lat>42.614659</lat><lng>25.394103</lng><date>27 June, 2015, 1:42 am</date></report>
+<report><name>Спирка Крън 1</name><color>Red</color><lat>42.665</lat><lng>25.373</lng><date>27 June, 2015, 3:03 am</date></report>
+<report><name>Спирка Крън 2</name><color>Red</color><lat>42.666</lat><lng>25.375</lng><date>27 June, 2015, 3:04 am</date></report>
+<report><name>Спирка Крън Център</name><color>Red</color><lat>42.667</lat><lng>25.383</lng><date>27 June, 2015, 3:05 am</date></report>
+<report><name>Спирка Енина 1</name><color>Red</color><lat>42.668</lat><lng>25.404</lng><date>27 June, 2015, 3:07 am</date></report>
+<report><name>Спирка Енина Център</name><color>Red</color><lat>42.667</lat><lng>25.408</lng><date>27 June, 2015, 3:08 am</date></report>
+<report><name>Спирка Янка</name><color>Red</color><lat>42.662</lat><lng>25.406</lng><date>27 June, 2015, 3:10 am</date></report>
+<report><name>Спирка Казалнък Вход</name><color>Red</color><lat>42.628</lat><lng>25.389</lng><date>27 June, 2015, 3:13 am</date></report>
+<report><name>Спирка Розариум</name><color>Red</color><lat>42.623</lat><lng>25.390</lng><date>27 June, 2015, 3:14 am</date></report>
+<report><name>Спирка Перун</name><color>Red</color><lat>42.620</lat><lng>25.396</lng><date>27 June, 2015, 3:17 am</date></report>
+<report><name>Спирка Универмаг</name><color>Red</color><lat>42.619</lat><lng>25.395</lng><date>27 June, 2015, 3:19 am</date></report>
+<report><name>Спирка Kазарма</name><color/><lat>42.62431253</lat><lng>25.37890077</lng><date>20 August, 2015, 3:55 pm</date></report>
+<report><name>Спирка Болница</name><color/><lat>42.622005</lat><lng>25.402104</lng></report>
+<report><name>Спирка Механо</name><color/><lat>42.62056851</lat><lng>25.40757895</lng><date>20 August, 2015, 4:03 pm</date></report>
+<report><name>Спирка Дървено</name><color/><lat>42.621593</lat><lng>25.410566</lng><date>20 August, 2015, 4:03 pm</date></report>
+<report><name>Спирка Тюлбето</name><color/><lat>42.62487698</lat><lng>25.39860159</lng><date>20 August, 2015, 4:16 pm</date></report>
+<report><name>Спирка МГ</name><color/><lat>42.62279285</lat><lng>25.39570749</lng><date>20 August, 2015, 4:20 pm</date></report>
+<report><name>Спирка Поликлиника</name><color/><lat>42.622050</lat><lng>25.388463</lng><date>20 August, 2015, 4:39 pm</date></report>
+<report><name>Спирка Хидравлика</name><color/><lat>42.62696104</lat><lng>25.38200676</lng></report>
+<report><name>Спирка Запад</name><color/><lat>42.62250075</lat><lng>25.37288994</lng><date>20 August, 2015, 4:03 pm</date></report>
+<report><name>Спирка Севт III</name><color/><lat>42.62034153</lat><lng>25.3720504</lng><date>20 August, 2015, 4:03 pm</date></report>
+<report><name>Спирка Кремона</name><color/><lat>42.61763353</lat><lng>25.37445098</lng><date>20 August, 2015, 4:03 pm</date></report>
+<report><name>Спирка Изток 1</name><color/><lat>42.616966</lat><lng>25.414778</lng></report>
+<report><name>Спирка Чудомир</name><color/><lat>42.618198</lat><lng>25.407697</lng></report>
+<report><name>Спирка Мебелен магазин</name><color/><lat>42.618545</lat><lng>25.402440</lng></report>
+<report><name>Спирка Мати Болгария</name><color/><lat>42.619129</lat><lng>25.397526</lng></report>
+<report><name>Спирка Площад</name><color/><lat>42.618734</lat><lng>25.392634</lng></report>
+<report><name>Спирка Детелина</name><lat>42.615718</lat><lng>25.391239</lng></report>
+<report><name>Спирка Арсенал</name><lat>42.606085</lat><lng>25.384716</lng></report>
+<report><name>Спирка Кълвача</name><color></color><lat>42.581998</lat><lng>25.424120</lng><date></date></report>
+<report><name>Спирка Аквапарк</name><color></color><lat>42.581208</lat><lng>25.426851</lng><date></date></report>
+<report><name>Спирка Баня</name><color></color><lat>42.579711</lat><lng>25.433991</lng><date></date></report>
+<report><name>Спирка Овощник</name><color></color><lat>42.577526</lat><lng>25.443019</lng><date></date></report>
+<report><name>Спирка Овощник Център</name><color></color><lat>42.577416</lat><lng>25.447825</lng><date></date></report>
+<report><name>Спирка Черганово</name><color></color><lat>42.584937</lat><lng>25.469974</lng><date></date></report>
+<report><name>Спирка Складове</name><color></color><lat>25.469974</lat><lng>25.405557</lng><date></date></report>
+ </reports>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reports>
+<report><name>Спирка Изток 1</name><color/><lat>42.616966</lat><lng>25.414778</lng></report>
+<report><name>Спирка Чудомир</name><color/><lat>42.618198</lat><lng>25.407697</lng></report>
+<report><name>Спирка Мебелен магазин</name><color/><lat>42.618545</lat><lng>25.402440</lng></report>
+<report><name>Спирка Мати Болгария</name><color/><lat>42.619129</lat><lng>25.397526</lng></report>
+<report><name>Спирка Площад</name><color/><lat>42.618734</lat><lng>25.392634</lng></report>
+<report><name>Спирка Виенска</name><color/><lat>42.618</lat><lng>25.387</lng></report>
+<report><name>Спирка Абаята</name><lat>42.617926</lat><lng>25.378720</lng></report>
+<report><name>Спирка Кауфланд</name><lat>42.617089</lat><lng>25.369480</lng></report>
+
+</reports>

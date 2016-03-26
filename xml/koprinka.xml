@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reports>
+<report><name>Спирка Площад</name><color>Red</color><lat>42.618622</lat><lng>25.391531</lng><date>27 June, 2015, 1:27 am</date></report>
+<report><name>Спирка Виенска</name><color>Red</color><lat>42.618</lat><lng>25.387</lng><date>27 June, 2015, 1:30 am</date></report>
+<report><name>Спирка Абаята</name><color>Red</color><lat>42.617926</lat><lng>25.378720</lng><date>27 June, 2015, 1:32 am</date></report>
+<report><name>Спирка Кауфланд</name><color>Red</color><lat>42.617089</lat><lng>25.369480</lng><date>27 June, 2015, 1:38 am</date></report>
+<report><name>Спирка Копринка 1</name><color>Red</color><lat>42.632</lat><lng>25.338</lng><date>27 June, 2015, 1:39 am</date></report>
+<report><name>Спирка Копринка Център</name><color>Red</color><lat>42.628</lat><lng>25.336</lng><date>27 June, 2015, 1:41 am</date></report>
+<report><name>Автогара</name><color>Red</color><lat>42.614757</lat><lng>25.393897</lng><date>27 June, 2015, 1:42 am</date></report></reports>

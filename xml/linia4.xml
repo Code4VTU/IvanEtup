@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<reports>
+<report><name>Спирка Кълвача</name><color></color><lat>42.581998</lat><lng>25.424120</lng><date></date></report>
+<report><name>Спирка Аквапарк</name><color></color><lat>42.581208</lat><lng>25.426851</lng><date></date></report>
+<report><name>Спирка Баня</name><color></color><lat>42.579711</lat><lng>25.433991</lng><date></date></report>
+<report><name>Спирка Овощник</name><color></color><lat>42.577526</lat><lng>25.443019</lng><date></date></report>
+<report><name>Спирка Овощник Център</name><color></color><lat>42.577416</lat><lng>25.447825</lng><date></date></report>
+<report><name>Спирка Черганово</name><color></color><lat>42.584937</lat><lng>25.469974</lng><date></date></report>
+<report><name>Спирка Складове</name><color></color><lat>25.469974</lat><lng>25.405557</lng><date></date></report>
+<report><name>Спирка Тракия</name><color></color><lat>42.617296</lat><lng>25.402126</lng><date></date></report>
+<report><name>Спирка Мати Болгария</name><color></color><lat>42.618902</lat><lng>25.398269</lng><date></date></report>
+<report><name>Спирка Антим</name><color></color><lat>42.617829</lat><lng>25.392853</lng><date></date></report>
+<report><name>Спирка Здраве</name><color></color><lat>42.615654</lat><lng>25.390901</lng><date></date></report>
+<report><name>Автогара</name><color>Red</color><lat>42.614659</lat><lng>25.394103</lng><date>27 June, 2015, 1:42 am</date></report>
+
+
+</reports>

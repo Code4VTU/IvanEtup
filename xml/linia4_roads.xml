@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<reports>
+
+
+<report><name>Спирка Тракия</name><color></color><lat>42.617296</lat><lng>25.402126</lng><date></date></report>
+<report><name>Спирка Мати Болгария</name><color></color><lat>42.618902</lat><lng>25.398269</lng><date></date></report>
+<report><name>Спирка Антим</name><color></color><lat>42.617829</lat><lng>25.392853</lng><date></date></report>
+<report><name>Спирка Здраве</name><color></color><lat>42.615654</lat><lng>25.390901</lng><date></date></report>
+<report><name>Автогара</name><color>Red</color><lat>42.614659</lat><lng>25.394103</lng><date>27 June, 2015, 1:42 am</date></report>
+</reports>
