@@ -1,59 +1,8 @@
-﻿<?php 
-
-
- /*   session_start();
-	if ($_SESSION["username"]==NULL){
-	$_SESSION["username"]= '<a href="login.php" style="color:white; font-size:2em;" >Влез</a>';
-	}
-
- $conn = mysql_connect("localhost", "sevtop9_admin", "212121s");
-
-if (!$conn) {
-    echo "Unable to connect to DB: " . mysql_error();
-    exit;
-}
-
-if (!mysql_select_db("sevtop9_users")) {
-    echo "Неуспешно зареждане на база данни: " . mysql_error();
-    exit;
-}
-
-$sql = "SELECT  name, lat, lng, description
-        FROM   events";
-
-$result = mysql_query($sql);
-
-if (!$result) {
-    echo "Неуспешно зареждане на заявка " . mysql_error();
-    exit;
-}
-
-if (mysql_num_rows($result) == 0) {
-    echo "Няма записани събития";
-    exit;
-}
-
-?> <script> var count =0;
-var names = [];
-var lat= [];
-var lng = [];
-var description = [];
- </script> <?php
-while ($row = mysql_fetch_assoc($result)) {
-?> <script> names.push('<?php echo $row["name"]; ?>');
-    lat.push('<?php echo $row["lat"]; ?>');
-   lng.push('<?php echo $row["lng"]; ?>');
- description.push('<?php echo $row["description"]; ?>');
-count++;
-  </script> <?php }
-
-mysql_free_result($result); */
- 
- ?>
+﻿
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Пътеводител | Sevtopolis.org</title>
+    <title>Пътеводител </title>
     <style>
       html, body, #map-canvas {
         height: 100%;
@@ -132,7 +81,11 @@ function start () {
 		<div class="container">	
 			<div class="logo">
 				
-				
+				<img src="images/logo.png" alt="" style=" width: 50%;
+   height: auto;  display: block;
+  margin-left: auto;
+  margin-right: auto;
+   ">
 
 			</div>
 				
@@ -157,14 +110,14 @@ function start () {
 <li><input onclick="deleteMarkers();  RemovePolyline(); BusMarker(allMarkers); " style=" width: 100%; font-size: 2em;  float:left; "  type=button value="Всички спирки"></li>
 <li><select id="selectBox3" style=" font-size: 2em;  width: 100%;
       float:left; " onchange="places2();">
-  <option value="1">Розариум</option>
+  <option value="1">Музей на розата</option>
   <option  value="3">Тракийска гробница</option>
   <option value="5" selected>Лъвова Чешма</option>
  
  
 </select></li>
 <li><input onclick="deleteMarkers();  RemovePolyline(); myLocation(); " style=" width: 100%; font-size: 2em;  float:left; "  type=button value="Моето местоположение"></li>
-<li><input onclick="deleteMarkers();  RemovePolyline(); events(); " style=" width: 100%; font-size: 2em;  float:left; "  type=button value="Събития"></li>
+
 					</ul>
 				
 				</div>
@@ -187,7 +140,7 @@ $("span.menu").click(function(){
 					});
 			</script>
 <div id="wrap">
-           <select id="selectBox4" style="   width: 20%;
+           <select id="selectBox4" style="   width: 25%;
      height: 100%;    
       font-size: 2em; float:left; 
 }" onchange="changeFunc2();">
@@ -202,17 +155,17 @@ $("span.menu").click(function(){
   
 
 </select>
-      <input onclick="deleteMarkers();  RemovePolyline(); BusMarker(allMarkers); " style=" width: 20%; font-size: 2em; height: 100%; float:left; "  type=button value="Всички спирки">
-      <select id="selectBox2" style=" font-size: 2em;  width: 20%;
+      <input onclick="deleteMarkers();  RemovePolyline(); BusMarker(allMarkers); " style=" width: 25%; font-size: 2em; height: 100%; float:left; "  type=button value="Всички спирки">
+      <select id="selectBox2" style=" font-size: 2em;  width: 25%;
      height: 100%; float:left; " onchange="places();">
-  <option value="1">Розариум</option>
+  <option value="1">Музей на розата</option>
   <option  value="3">Тракийски гробница</option>
   <option value="5" selected>Лъвова Чешма</option>
 
 
 </select>
-<input onclick="deleteMarkers();  RemovePolyline(); myLocation(); " style=" width: 20%; font-size: 2em; height: 100%; float:left; "  type=button value="Моето местоположение">
-<input onclick="deleteMarkers();  RemovePolyline(); events(); " style=" width: 20%; font-size: 2em; height: 100%; float:left; "  type=button value="Събития">
+<input onclick="deleteMarkers();  RemovePolyline(); myLocation(); " style=" width: 25%; font-size: 2em; height: 100%; float:left; "  type=button value="Моето местоположение">
+
     </div> </div>
 	 
     <div id="SEVTmap" style="width:100%; height:80%; ">
